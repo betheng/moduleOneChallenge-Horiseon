@@ -9,8 +9,11 @@ https://github.com/betheng/moduleOneChallenge-Horiseon
 - Go to gitHub > Site repo > Settings > Pages
 - Then deploy to GitHub Pages
 
+Live site link: https://betheng.github.io/moduleOneChallenge-Horiseon/
 _____________________________
 ## Last Update
+![Screenshot of site day of upload](./Horiseon/assets/images/HoriseonSite-screenshot.png)
+
 5/2/2023 (@betheng)- Add title, alt tags, refactor for better SEO and accessibility
 ### User Story
 AS A marketing agency<br />
